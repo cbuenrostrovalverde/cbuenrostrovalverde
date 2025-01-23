@@ -17,8 +17,9 @@ I'm Carlos Buenrostro Valverde, a Master in Business Management (AMBA Accredited
 
 ## Education
 
-- Master in Business Management (AMBA Accredited) 🎓
-- Graduated in Management and Marketing 🌐 
+- Master in Data Analytics and AI (2024) 👨🏼‍💻 📊 📈
+- Master in Business Management (AMBA Accredited) (2019) 🎓
+- Graduated in Business Management and Marketing (2013 - 2018) 🌐 
 
 ## Skills
 
