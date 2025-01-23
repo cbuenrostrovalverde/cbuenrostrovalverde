@@ -2,15 +2,18 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [About Me](#about-me)
 - [Education](#education)
 - [Skills](#skills)
 - [Current Studies](#current-studies)
+- [LinkedIn Profile](#linkedin-profile)
 - [Contact](#contact)
+- [Let's create, innovate, and learn together! 👨‍💻🚀](#lets-create-innovate-and-learn-together-)
 
 ## About Me
 
-I'm Carlos Buenrostro Valverde, a Master in Business Management (AMBA Accredited) with a background in Management and Marketing. I'm passionate about marketing, business intelligence, and technology. Currently, I'm studying a Data Analytics Master at EDEM to further enhance my skills.
+I'm Carlos Buenrostro Valverde, a Master in Business Management (AMBA Accredited) with a background in Management and Marketing. I'm passionate about marketing, business intelligence, and technology. Currently, I've finished a Data Analytics Master at EDEM to further enhance my skills. Now I'm ready to see what's next! 
 
 ## Education
 
